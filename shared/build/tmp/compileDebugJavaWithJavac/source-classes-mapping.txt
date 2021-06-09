@@ -1,0 +1,2 @@
+com/example/oportun/BuildConfig.java
+ com.example.oportun.BuildConfig
